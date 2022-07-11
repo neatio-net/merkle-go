@@ -7,8 +7,8 @@ import (
 	"runtime"
 	"testing"
 
-	db "github.com/neatlib/db-go"
-	merkle "github.com/neatlib/merkle-go"
+	db "github.com/neatio-network/db-go"
+	merkle "github.com/neatio-network/merkle-go"
 )
 
 func randBytes(length int) []byte {

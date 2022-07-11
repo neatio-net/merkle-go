@@ -6,10 +6,10 @@ import (
 	mrand "math/rand"
 	"sort"
 
-	. "github.com/neatlib/common-go"
-	. "github.com/neatlib/common-go/test"
-	"github.com/neatlib/db-go"
-	"github.com/neatlib/wire-go"
+	. "github.com/neatio-network/common-go"
+	. "github.com/neatio-network/common-go/test"
+	"github.com/neatio-network/db-go"
+	"github.com/neatio-network/wire-go"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 

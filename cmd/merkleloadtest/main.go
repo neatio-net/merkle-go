@@ -9,8 +9,8 @@ import (
 
 	kingpin "gopkg.in/alecthomas/kingpin.v2"
 
-	db "github.com/neatlib/db-go"
-	merkle "github.com/neatlib/merkle-go"
+	db "github.com/neatio-network/db-go"
+	merkle "github.com/neatio-network/merkle-go"
 )
 
 const reportInterval = 100
