@@ -1,10 +1,10 @@
-package: github.com/neatio-network/merkle-go
+package: github.com/neatio-net/merkle-go
 import:
-- package: github.com/neatio-network/common-go
+- package: github.com/neatio-net/common-go
   version: develop
-- package: github.com/neatio-network/db-go
+- package: github.com/neatio-net/db-go
   version: develop
-- package: github.com/neatio-network/wire-go
+- package: github.com/neatio-net/wire-go
   version: develop
 - package: golang.org/x/crypto
   subpackages:

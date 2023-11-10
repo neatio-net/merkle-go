@@ -5,9 +5,9 @@ import (
 	"container/list"
 	"sync"
 
-	. "github.com/neatio-network/common-go"
-	dbm "github.com/neatio-network/db-go"
-	wire "github.com/neatio-network/wire-go"
+	. "github.com/neatio-net/common-go"
+	dbm "github.com/neatio-net/db-go"
+	wire "github.com/neatio-net/wire-go"
 )
 
 /*

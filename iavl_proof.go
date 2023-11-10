@@ -5,8 +5,8 @@ import (
 
 	"golang.org/x/crypto/ripemd160"
 
-	. "github.com/neatio-network/common-go"
-	"github.com/neatio-network/wire-go"
+	. "github.com/neatio-net/common-go"
+	"github.com/neatio-net/wire-go"
 )
 
 const proofLimit = 1 << 16 // 64 KB

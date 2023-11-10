@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	. "github.com/neatio-network/common-go"
-	"github.com/neatio-network/db-go"
-	"github.com/neatio-network/merkle-go"
+	. "github.com/neatio-net/common-go"
+	"github.com/neatio-net/db-go"
+	"github.com/neatio-net/merkle-go"
 )
 
 func main() {
